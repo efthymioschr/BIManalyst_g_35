@@ -1,6 +1,6 @@
 # **CO₂ Footprint Calculation Tool**
 
-This tutorial explains how the code calculates the CO₂ footprint of concrete elements in an IFC model, step by step, with a brief explanation for each part.
+This tutorial explains how the code calculates the CO₂ footprint of concrete elements in an IFC model, step by step.
 
 ---
 
