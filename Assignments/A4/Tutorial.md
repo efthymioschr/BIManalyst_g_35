@@ -227,3 +227,5 @@ print(f"Estimated CO2 footprint for concrete elements: {CO2_concrete:.2f} kg. CO
 ```
 
 ---
+Once printed, the output of the script will look something like this:
+(IMPORT THE RESULTS FROM BLENDER SOFTWARE)
