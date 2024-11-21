@@ -15,7 +15,7 @@ This tool development aligns with the OpenBIM Analyst Role, Learning Level 2, as
 2) Custom environmental analysis, including material-specific footprint estimates.
 3) Intermediate-level development of Python-based scripts to handle data extraction and calculations.
 
-While the tool fulfills Level 2 objectives, future refinements (e.g., broader material handling and API integration) could elevate it to Analyst Level 3.
+While the tool fulfills Level 2 objectives, future refinements (e.g., broader material handling and API integration) could elevate it to Analyst Level 3. (I DODNT KNOW IF WE SHOULD KEEP THIS PART!!!!)
 
 Explicit Summary Section
 Title: CO₂ Footprint Calculation Tool for Structural Concrete
