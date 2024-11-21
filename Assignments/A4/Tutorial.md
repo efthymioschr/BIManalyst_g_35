@@ -4,6 +4,7 @@ Step 1: Restart and Import Required Libraries
 First, the code initializes the environment and imports necessary libraries:
 
 ifcopenshell: For working with IFC models.
+
 bonsai.bim.ifc: For accessing the loaded IFC file.
 
 print("RESTART CODE")
